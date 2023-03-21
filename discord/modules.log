@@ -1,0 +1,1137 @@
+2023-03-18T13:38:18.757Z [Modules] Modules initializing
+2023-03-18T13:38:18.758Z [Modules] Distribution: remote
+2023-03-18T13:38:18.758Z [Modules] Host updates: enabled
+2023-03-18T13:38:18.758Z [Modules] Module updates: enabled
+2023-03-18T13:38:18.758Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-18T13:38:18.758Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-18T13:38:18.758Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-18T13:38:18.881Z [Modules] Bootstrapping...
+2023-03-18T13:38:18.881Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-03-18T13:38:18.882Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-03-18T13:38:18.882Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-03-18T13:38:18.882Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-03-18T13:38:18.883Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-03-18T13:38:18.883Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-03-18T13:38:18.883Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-03-18T13:38:18.883Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-03-18T13:38:18.884Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-03-18T13:38:18.884Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-03-18T13:38:18.884Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-03-18T13:38:18.884Z [Modules] Checking for host updates.
+2023-03-18T13:38:19.112Z [Modules] Host is up to date.
+2023-03-18T13:38:19.112Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T13:38:19.210Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-03-18T13:38:19.211Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-03-18T13:38:19.211Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-03-18T13:38:19.211Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-03-18T13:38:19.211Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-03-18T13:38:19.211Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-03-18T13:38:19.211Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip
+2023-03-18T13:38:19.523Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 1%
+2023-03-18T13:38:19.558Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 2%
+2023-03-18T13:38:19.585Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 4%
+2023-03-18T13:38:19.590Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 5%
+2023-03-18T13:38:19.603Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 6%
+2023-03-18T13:38:19.615Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 7%
+2023-03-18T13:38:19.685Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 10%
+2023-03-18T13:38:19.706Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 11%
+2023-03-18T13:38:19.732Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 12%
+2023-03-18T13:38:19.735Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 13%
+2023-03-18T13:38:19.823Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 16%
+2023-03-18T13:38:19.823Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 18%
+2023-03-18T13:38:19.872Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 19%
+2023-03-18T13:38:19.910Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 22%
+2023-03-18T13:38:19.913Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 25%
+2023-03-18T13:38:19.923Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 26%
+2023-03-18T13:38:19.941Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 27%
+2023-03-18T13:38:19.951Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 28%
+2023-03-18T13:38:19.972Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 29%
+2023-03-18T13:38:20.000Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 30%
+2023-03-18T13:38:20.024Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 31%
+2023-03-18T13:38:20.028Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 32%
+2023-03-18T13:38:20.062Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 35%
+2023-03-18T13:38:20.086Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 36%
+2023-03-18T13:38:20.105Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 37%
+2023-03-18T13:38:20.152Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 39%
+2023-03-18T13:38:20.170Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 40%
+2023-03-18T13:38:20.184Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 41%
+2023-03-18T13:38:20.201Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 42%
+2023-03-18T13:38:20.225Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 43%
+2023-03-18T13:38:20.283Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 46%
+2023-03-18T13:38:20.293Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 47%
+2023-03-18T13:38:20.312Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 48%
+2023-03-18T13:38:20.329Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 49%
+2023-03-18T13:38:20.382Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 51%
+2023-03-18T13:38:20.390Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 52%
+2023-03-18T13:38:20.403Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 53%
+2023-03-18T13:38:20.421Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 54%
+2023-03-18T13:38:20.434Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 55%
+2023-03-18T13:38:20.447Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 56%
+2023-03-18T13:38:20.463Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 57%
+2023-03-18T13:38:20.483Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 58%
+2023-03-18T13:38:20.532Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 60%
+2023-03-18T13:38:20.541Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 61%
+2023-03-18T13:38:20.555Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 62%
+2023-03-18T13:38:20.573Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 63%
+2023-03-18T13:38:20.587Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 64%
+2023-03-18T13:38:20.624Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 66%
+2023-03-18T13:38:20.637Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 67%
+2023-03-18T13:38:20.648Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 68%
+2023-03-18T13:38:20.665Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 69%
+2023-03-18T13:38:20.684Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 70%
+2023-03-18T13:38:20.701Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 71%
+2023-03-18T13:38:20.720Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 72%
+2023-03-18T13:38:20.732Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 73%
+2023-03-18T13:38:20.761Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 74%
+2023-03-18T13:38:20.772Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 75%
+2023-03-18T13:38:20.784Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 76%
+2023-03-18T13:38:20.806Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 77%
+2023-03-18T13:38:20.816Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 78%
+2023-03-18T13:38:20.834Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 79%
+2023-03-18T13:38:20.854Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 80%
+2023-03-18T13:38:20.882Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 81%
+2023-03-18T13:38:20.889Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 82%
+2023-03-18T13:38:20.910Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 83%
+2023-03-18T13:38:20.924Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 84%
+2023-03-18T13:38:20.936Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 85%
+2023-03-18T13:38:20.953Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 86%
+2023-03-18T13:38:20.965Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 87%
+2023-03-18T13:38:20.978Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 88%
+2023-03-18T13:38:21.003Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 89%
+2023-03-18T13:38:21.017Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 90%
+2023-03-18T13:38:21.038Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 92%
+2023-03-18T13:38:21.052Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 93%
+2023-03-18T13:38:21.067Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 94%
+2023-03-18T13:38:21.080Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 95%
+2023-03-18T13:38:21.113Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 96%
+2023-03-18T13:38:21.124Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 97%
+2023-03-18T13:38:21.144Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 98%
+2023-03-18T13:38:21.155Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 99%
+2023-03-18T13:38:21.161Z [Modules] Streaming discord_desktop_core@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 100%
+2023-03-18T13:38:21.163Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-03-18T13:38:21.163Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip
+2023-03-18T13:38:21.370Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 1%
+2023-03-18T13:38:21.386Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 2%
+2023-03-18T13:38:21.398Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 3%
+2023-03-18T13:38:21.414Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 4%
+2023-03-18T13:38:21.429Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 5%
+2023-03-18T13:38:21.444Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 6%
+2023-03-18T13:38:21.465Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 7%
+2023-03-18T13:38:21.472Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 8%
+2023-03-18T13:38:21.487Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 9%
+2023-03-18T13:38:21.501Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 10%
+2023-03-18T13:38:21.516Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 11%
+2023-03-18T13:38:21.534Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 12%
+2023-03-18T13:38:21.551Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 13%
+2023-03-18T13:38:21.557Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 14%
+2023-03-18T13:38:21.571Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 15%
+2023-03-18T13:38:21.583Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 16%
+2023-03-18T13:38:21.595Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 17%
+2023-03-18T13:38:21.606Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 18%
+2023-03-18T13:38:21.625Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 19%
+2023-03-18T13:38:21.631Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 20%
+2023-03-18T13:38:21.637Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 21%
+2023-03-18T13:38:21.654Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 22%
+2023-03-18T13:38:21.663Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 23%
+2023-03-18T13:38:21.675Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 24%
+2023-03-18T13:38:21.686Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 25%
+2023-03-18T13:38:21.697Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 26%
+2023-03-18T13:38:21.712Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 27%
+2023-03-18T13:38:21.715Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 28%
+2023-03-18T13:38:21.727Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 29%
+2023-03-18T13:38:21.736Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 30%
+2023-03-18T13:38:21.752Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 31%
+2023-03-18T13:38:21.764Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 32%
+2023-03-18T13:38:21.777Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 33%
+2023-03-18T13:38:21.781Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 34%
+2023-03-18T13:38:21.792Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 35%
+2023-03-18T13:38:21.797Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 36%
+2023-03-18T13:38:21.804Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 37%
+2023-03-18T13:38:21.813Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 38%
+2023-03-18T13:38:21.824Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 39%
+2023-03-18T13:38:21.833Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 40%
+2023-03-18T13:38:21.835Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 41%
+2023-03-18T13:38:21.844Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 42%
+2023-03-18T13:38:21.851Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 43%
+2023-03-18T13:38:21.857Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 44%
+2023-03-18T13:38:21.864Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 45%
+2023-03-18T13:38:21.872Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 46%
+2023-03-18T13:38:21.877Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 47%
+2023-03-18T13:38:21.883Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 48%
+2023-03-18T13:38:21.891Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 49%
+2023-03-18T13:38:21.895Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 50%
+2023-03-18T13:38:21.903Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 51%
+2023-03-18T13:38:21.908Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 52%
+2023-03-18T13:38:21.915Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 53%
+2023-03-18T13:38:21.921Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 54%
+2023-03-18T13:38:21.926Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 55%
+2023-03-18T13:38:21.933Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 56%
+2023-03-18T13:38:21.937Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 57%
+2023-03-18T13:38:21.942Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 58%
+2023-03-18T13:38:21.946Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 59%
+2023-03-18T13:38:21.953Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 60%
+2023-03-18T13:38:21.958Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 61%
+2023-03-18T13:38:21.963Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 62%
+2023-03-18T13:38:21.966Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 63%
+2023-03-18T13:38:21.973Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 64%
+2023-03-18T13:38:21.982Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 65%
+2023-03-18T13:38:21.987Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 66%
+2023-03-18T13:38:21.992Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 67%
+2023-03-18T13:38:21.997Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 68%
+2023-03-18T13:38:22.001Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 69%
+2023-03-18T13:38:22.006Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 70%
+2023-03-18T13:38:22.010Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 71%
+2023-03-18T13:38:22.014Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 72%
+2023-03-18T13:38:22.029Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 75%
+2023-03-18T13:38:22.032Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 76%
+2023-03-18T13:38:22.037Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 77%
+2023-03-18T13:38:22.042Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 78%
+2023-03-18T13:38:22.045Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 79%
+2023-03-18T13:38:22.050Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 80%
+2023-03-18T13:38:22.053Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 81%
+2023-03-18T13:38:22.057Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 82%
+2023-03-18T13:38:22.066Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 84%
+2023-03-18T13:38:22.072Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 85%
+2023-03-18T13:38:22.075Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 86%
+2023-03-18T13:38:22.078Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 87%
+2023-03-18T13:38:22.085Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 89%
+2023-03-18T13:38:22.092Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 90%
+2023-03-18T13:38:22.095Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 91%
+2023-03-18T13:38:22.102Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 92%
+2023-03-18T13:38:22.105Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 93%
+2023-03-18T13:38:22.106Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 94%
+2023-03-18T13:38:22.112Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 95%
+2023-03-18T13:38:22.115Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 96%
+2023-03-18T13:38:22.119Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 97%
+2023-03-18T13:38:22.122Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 98%
+2023-03-18T13:38:22.125Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 99%
+2023-03-18T13:38:22.128Z [Modules] Streaming discord_erlpack@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 100%
+2023-03-18T13:38:22.129Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-03-18T13:38:22.129Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip
+2023-03-18T13:38:22.346Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 1%
+2023-03-18T13:38:22.364Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 2%
+2023-03-18T13:38:22.391Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 3%
+2023-03-18T13:38:22.406Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 4%
+2023-03-18T13:38:22.427Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 5%
+2023-03-18T13:38:22.458Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 6%
+2023-03-18T13:38:22.480Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 7%
+2023-03-18T13:38:22.497Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 8%
+2023-03-18T13:38:22.518Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 9%
+2023-03-18T13:38:22.535Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 10%
+2023-03-18T13:38:22.569Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 11%
+2023-03-18T13:38:22.583Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 12%
+2023-03-18T13:38:22.615Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 13%
+2023-03-18T13:38:22.628Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 14%
+2023-03-18T13:38:22.647Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 15%
+2023-03-18T13:38:22.705Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 16%
+2023-03-18T13:38:22.718Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 17%
+2023-03-18T13:38:22.718Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 18%
+2023-03-18T13:38:22.737Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 19%
+2023-03-18T13:38:22.756Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 20%
+2023-03-18T13:38:22.793Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 21%
+2023-03-18T13:38:22.816Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 22%
+2023-03-18T13:38:22.824Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 23%
+2023-03-18T13:38:22.856Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 24%
+2023-03-18T13:38:22.909Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 25%
+2023-03-18T13:38:22.909Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 26%
+2023-03-18T13:38:22.921Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 27%
+2023-03-18T13:38:22.948Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 28%
+2023-03-18T13:38:22.959Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 29%
+2023-03-18T13:38:22.979Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 30%
+2023-03-18T13:38:23.001Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 31%
+2023-03-18T13:38:23.022Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 32%
+2023-03-18T13:38:23.045Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 33%
+2023-03-18T13:38:23.068Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 34%
+2023-03-18T13:38:23.085Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 35%
+2023-03-18T13:38:23.105Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 36%
+2023-03-18T13:38:23.136Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 37%
+2023-03-18T13:38:23.157Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 38%
+2023-03-18T13:38:23.181Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 39%
+2023-03-18T13:38:23.196Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 40%
+2023-03-18T13:38:23.219Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 41%
+2023-03-18T13:38:23.246Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 42%
+2023-03-18T13:38:23.262Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 43%
+2023-03-18T13:38:23.282Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 44%
+2023-03-18T13:38:23.360Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 45%
+2023-03-18T13:38:23.360Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 46%
+2023-03-18T13:38:23.368Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 47%
+2023-03-18T13:38:23.369Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 48%
+2023-03-18T13:38:23.392Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 49%
+2023-03-18T13:38:23.442Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 50%
+2023-03-18T13:38:23.460Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 51%
+2023-03-18T13:38:23.493Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 52%
+2023-03-18T13:38:23.496Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 53%
+2023-03-18T13:38:23.497Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 54%
+2023-03-18T13:38:23.520Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 55%
+2023-03-18T13:38:23.540Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 56%
+2023-03-18T13:38:23.559Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 57%
+2023-03-18T13:38:23.580Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 58%
+2023-03-18T13:38:23.626Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 59%
+2023-03-18T13:38:23.646Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 60%
+2023-03-18T13:38:23.646Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 61%
+2023-03-18T13:38:23.667Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 62%
+2023-03-18T13:38:23.687Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 63%
+2023-03-18T13:38:23.720Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 64%
+2023-03-18T13:38:23.734Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 65%
+2023-03-18T13:38:23.782Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 66%
+2023-03-18T13:38:23.782Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 67%
+2023-03-18T13:38:23.802Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 68%
+2023-03-18T13:38:23.825Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 69%
+2023-03-18T13:38:23.887Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 70%
+2023-03-18T13:38:23.899Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 71%
+2023-03-18T13:38:23.900Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 72%
+2023-03-18T13:38:23.925Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 73%
+2023-03-18T13:38:23.943Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 74%
+2023-03-18T13:38:23.967Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 75%
+2023-03-18T13:38:23.989Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 76%
+2023-03-18T13:38:24.013Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 77%
+2023-03-18T13:38:24.047Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 78%
+2023-03-18T13:38:24.048Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 79%
+2023-03-18T13:38:24.077Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 80%
+2023-03-18T13:38:24.099Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 81%
+2023-03-18T13:38:24.119Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 82%
+2023-03-18T13:38:24.140Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 83%
+2023-03-18T13:38:24.188Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 84%
+2023-03-18T13:38:24.189Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 85%
+2023-03-18T13:38:24.211Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 86%
+2023-03-18T13:38:24.226Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 87%
+2023-03-18T13:38:24.250Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 88%
+2023-03-18T13:38:24.273Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 89%
+2023-03-18T13:38:24.300Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 90%
+2023-03-18T13:38:24.334Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 91%
+2023-03-18T13:38:24.340Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 92%
+2023-03-18T13:38:24.363Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 93%
+2023-03-18T13:38:24.390Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 94%
+2023-03-18T13:38:24.407Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 95%
+2023-03-18T13:38:24.440Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 96%
+2023-03-18T13:38:24.496Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 97%
+2023-03-18T13:38:24.506Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 98%
+2023-03-18T13:38:24.516Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 99%
+2023-03-18T13:38:24.531Z [Modules] Streaming discord_spellcheck@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 100%
+2023-03-18T13:38:24.532Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-03-18T13:38:24.532Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip
+2023-03-18T13:38:24.723Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 1%
+2023-03-18T13:38:24.730Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 2%
+2023-03-18T13:38:24.737Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 3%
+2023-03-18T13:38:24.743Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 4%
+2023-03-18T13:38:24.751Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 5%
+2023-03-18T13:38:24.755Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 6%
+2023-03-18T13:38:24.760Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 7%
+2023-03-18T13:38:24.767Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 8%
+2023-03-18T13:38:24.777Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 9%
+2023-03-18T13:38:24.782Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 10%
+2023-03-18T13:38:24.790Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 11%
+2023-03-18T13:38:24.801Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 13%
+2023-03-18T13:38:24.805Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 14%
+2023-03-18T13:38:24.820Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 16%
+2023-03-18T13:38:24.825Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 17%
+2023-03-18T13:38:24.833Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 18%
+2023-03-18T13:38:24.848Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 20%
+2023-03-18T13:38:24.856Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 21%
+2023-03-18T13:38:24.863Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 22%
+2023-03-18T13:38:24.898Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 24%
+2023-03-18T13:38:24.899Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 28%
+2023-03-18T13:38:24.910Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 29%
+2023-03-18T13:38:24.916Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 30%
+2023-03-18T13:38:24.923Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 31%
+2023-03-18T13:38:24.929Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 32%
+2023-03-18T13:38:24.936Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 33%
+2023-03-18T13:38:24.940Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 34%
+2023-03-18T13:38:24.948Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 35%
+2023-03-18T13:38:24.986Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 37%
+2023-03-18T13:38:24.987Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 40%
+2023-03-18T13:38:25.015Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 42%
+2023-03-18T13:38:25.016Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 45%
+2023-03-18T13:38:25.020Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 46%
+2023-03-18T13:38:25.029Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 47%
+2023-03-18T13:38:25.035Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 48%
+2023-03-18T13:38:25.041Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 49%
+2023-03-18T13:38:25.048Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 50%
+2023-03-18T13:38:25.057Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 51%
+2023-03-18T13:38:25.062Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 52%
+2023-03-18T13:38:25.070Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 53%
+2023-03-18T13:38:25.078Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 54%
+2023-03-18T13:38:25.089Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 56%
+2023-03-18T13:38:25.098Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 57%
+2023-03-18T13:38:25.107Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 59%
+2023-03-18T13:38:25.114Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 60%
+2023-03-18T13:38:25.153Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 62%
+2023-03-18T13:38:25.153Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 63%
+2023-03-18T13:38:25.170Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 66%
+2023-03-18T13:38:25.171Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 68%
+2023-03-18T13:38:25.176Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 69%
+2023-03-18T13:38:25.182Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 70%
+2023-03-18T13:38:25.187Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 71%
+2023-03-18T13:38:25.190Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 72%
+2023-03-18T13:38:25.202Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 73%
+2023-03-18T13:38:25.208Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 74%
+2023-03-18T13:38:25.211Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 75%
+2023-03-18T13:38:25.218Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 76%
+2023-03-18T13:38:25.230Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 77%
+2023-03-18T13:38:25.234Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 78%
+2023-03-18T13:38:25.242Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 79%
+2023-03-18T13:38:25.247Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 80%
+2023-03-18T13:38:25.251Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 81%
+2023-03-18T13:38:25.261Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 82%
+2023-03-18T13:38:25.270Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 83%
+2023-03-18T13:38:25.274Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 84%
+2023-03-18T13:38:25.280Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 85%
+2023-03-18T13:38:25.287Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 86%
+2023-03-18T13:38:25.290Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 87%
+2023-03-18T13:38:25.297Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 88%
+2023-03-18T13:38:25.304Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 89%
+2023-03-18T13:38:25.313Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 90%
+2023-03-18T13:38:25.317Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 91%
+2023-03-18T13:38:25.321Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 92%
+2023-03-18T13:38:25.328Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 93%
+2023-03-18T13:38:25.362Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 95%
+2023-03-18T13:38:25.362Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 98%
+2023-03-18T13:38:25.369Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 99%
+2023-03-18T13:38:25.373Z [Modules] Streaming discord_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 100%
+2023-03-18T13:38:25.374Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-03-18T13:38:25.374Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip
+2023-03-18T13:38:25.629Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 1%
+2023-03-18T13:38:25.666Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 2%
+2023-03-18T13:38:25.702Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 3%
+2023-03-18T13:38:25.738Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 4%
+2023-03-18T13:38:25.771Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 5%
+2023-03-18T13:38:25.811Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 6%
+2023-03-18T13:38:25.852Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 7%
+2023-03-18T13:38:25.881Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 8%
+2023-03-18T13:38:25.920Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 9%
+2023-03-18T13:38:25.949Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 10%
+2023-03-18T13:38:25.996Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 11%
+2023-03-18T13:38:26.050Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 12%
+2023-03-18T13:38:26.086Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 13%
+2023-03-18T13:38:26.126Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 14%
+2023-03-18T13:38:26.158Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 15%
+2023-03-18T13:38:26.199Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 16%
+2023-03-18T13:38:26.241Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 17%
+2023-03-18T13:38:26.270Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 18%
+2023-03-18T13:38:26.304Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 19%
+2023-03-18T13:38:26.358Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 20%
+2023-03-18T13:38:26.378Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 21%
+2023-03-18T13:38:26.409Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 22%
+2023-03-18T13:38:26.476Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 23%
+2023-03-18T13:38:26.491Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 24%
+2023-03-18T13:38:26.548Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 25%
+2023-03-18T13:38:26.580Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 26%
+2023-03-18T13:38:26.650Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 27%
+2023-03-18T13:38:26.657Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 28%
+2023-03-18T13:38:26.690Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 29%
+2023-03-18T13:38:26.728Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 30%
+2023-03-18T13:38:26.770Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 31%
+2023-03-18T13:38:26.803Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 32%
+2023-03-18T13:38:26.847Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 33%
+2023-03-18T13:38:26.896Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 34%
+2023-03-18T13:38:26.928Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 35%
+2023-03-18T13:38:26.957Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 36%
+2023-03-18T13:38:27.023Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 37%
+2023-03-18T13:38:27.033Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 38%
+2023-03-18T13:38:27.107Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 39%
+2023-03-18T13:38:27.114Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 40%
+2023-03-18T13:38:27.152Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 41%
+2023-03-18T13:38:27.217Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 42%
+2023-03-18T13:38:27.242Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 43%
+2023-03-18T13:38:27.271Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 44%
+2023-03-18T13:38:27.311Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 45%
+2023-03-18T13:38:27.350Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 46%
+2023-03-18T13:38:27.389Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 47%
+2023-03-18T13:38:27.429Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 48%
+2023-03-18T13:38:27.481Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 49%
+2023-03-18T13:38:27.492Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 50%
+2023-03-18T13:38:27.536Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 51%
+2023-03-18T13:38:27.606Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 52%
+2023-03-18T13:38:27.622Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 53%
+2023-03-18T13:38:27.665Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 54%
+2023-03-18T13:38:27.742Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 55%
+2023-03-18T13:38:27.758Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 56%
+2023-03-18T13:38:27.792Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 57%
+2023-03-18T13:38:27.830Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 58%
+2023-03-18T13:38:27.871Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 59%
+2023-03-18T13:38:27.912Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 60%
+2023-03-18T13:38:27.948Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 61%
+2023-03-18T13:38:27.986Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 62%
+2023-03-18T13:38:28.033Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 63%
+2023-03-18T13:38:28.073Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 64%
+2023-03-18T13:38:28.121Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 65%
+2023-03-18T13:38:28.164Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 66%
+2023-03-18T13:38:28.185Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 67%
+2023-03-18T13:38:28.231Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 68%
+2023-03-18T13:38:28.292Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 69%
+2023-03-18T13:38:28.304Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 70%
+2023-03-18T13:38:28.341Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 71%
+2023-03-18T13:38:28.400Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 72%
+2023-03-18T13:38:28.414Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 73%
+2023-03-18T13:38:28.477Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 74%
+2023-03-18T13:38:28.494Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 75%
+2023-03-18T13:38:28.535Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 76%
+2023-03-18T13:38:28.584Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 77%
+2023-03-18T13:38:28.620Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 78%
+2023-03-18T13:38:28.650Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 79%
+2023-03-18T13:38:28.683Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 80%
+2023-03-18T13:38:28.739Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 81%
+2023-03-18T13:38:28.785Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 82%
+2023-03-18T13:38:28.816Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 83%
+2023-03-18T13:38:28.869Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 84%
+2023-03-18T13:38:28.903Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 85%
+2023-03-18T13:38:28.940Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 86%
+2023-03-18T13:38:28.974Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 87%
+2023-03-18T13:38:29.023Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 88%
+2023-03-18T13:38:29.079Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 89%
+2023-03-18T13:38:29.096Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 90%
+2023-03-18T13:38:29.135Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 91%
+2023-03-18T13:38:29.172Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 92%
+2023-03-18T13:38:29.213Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 93%
+2023-03-18T13:38:29.282Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 94%
+2023-03-18T13:38:29.294Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 95%
+2023-03-18T13:38:29.360Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 96%
+2023-03-18T13:38:29.378Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 97%
+2023-03-18T13:38:29.421Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 98%
+2023-03-18T13:38:29.478Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 99%
+2023-03-18T13:38:29.495Z [Modules] Streaming discord_voice@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 100%
+2023-03-18T13:38:29.496Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-03-18T13:38:29.496Z [Modules] Installing updates...
+2023-03-18T13:38:29.497Z [Modules] Installing discord_desktop_core@1 from /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip
+2023-03-18T13:38:29.585Z [Modules] Installing discord_erlpack@1 from /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip
+2023-03-18T13:38:29.644Z [Modules] Installing discord_spellcheck@1 from /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip
+2023-03-18T13:38:30.070Z [Modules] Installing discord_utils@1 from /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_utils-1.zip
+2023-03-18T13:38:30.287Z [Modules] Installing discord_voice@1 from /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_voice-1.zip
+2023-03-18T13:38:30.818Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-03-18T13:38:30.819Z [Modules] Checking for host updates.
+2023-03-18T13:38:30.985Z [Modules] Host is up to date.
+2023-03-18T13:38:30.985Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T13:38:30.987Z [Modules] No module updates available.
+2023-03-18T13:38:32.387Z [Modules] Starting to install discord_krisp...
+2023-03-18T13:38:32.387Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-03-18T13:38:32.387Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip
+2023-03-18T13:38:32.460Z [Modules] Starting to install discord_game_utils...
+2023-03-18T13:38:32.693Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 1%
+2023-03-18T13:38:32.717Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 2%
+2023-03-18T13:38:32.786Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 3%
+2023-03-18T13:38:32.819Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 4%
+2023-03-18T13:38:32.907Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 5%
+2023-03-18T13:38:32.931Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 6%
+2023-03-18T13:38:32.984Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 7%
+2023-03-18T13:38:33.018Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 8%
+2023-03-18T13:38:33.064Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 9%
+2023-03-18T13:38:33.110Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 10%
+2023-03-18T13:38:33.168Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 11%
+2023-03-18T13:38:33.219Z [Modules] Checking for host updates.
+2023-03-18T13:38:33.219Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 12%
+2023-03-18T13:38:33.257Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 13%
+2023-03-18T13:38:33.322Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 14%
+2023-03-18T13:38:33.351Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 15%
+2023-03-18T13:38:33.357Z [Modules] Starting to install discord_rpc...
+2023-03-18T13:38:33.386Z [Modules] Host is up to date.
+2023-03-18T13:38:33.386Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T13:38:33.388Z [Modules] No module updates available.
+2023-03-18T13:38:33.405Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 16%
+2023-03-18T13:38:33.466Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 17%
+2023-03-18T13:38:33.492Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 18%
+2023-03-18T13:38:33.543Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 19%
+2023-03-18T13:38:33.618Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 20%
+2023-03-18T13:38:33.656Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 21%
+2023-03-18T13:38:33.731Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 22%
+2023-03-18T13:38:33.781Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 23%
+2023-03-18T13:38:33.836Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 24%
+2023-03-18T13:38:33.868Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 25%
+2023-03-18T13:38:33.931Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 26%
+2023-03-18T13:38:33.948Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 27%
+2023-03-18T13:38:34.047Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 28%
+2023-03-18T13:38:34.054Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 29%
+2023-03-18T13:38:34.108Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 30%
+2023-03-18T13:38:34.155Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 31%
+2023-03-18T13:38:34.196Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 32%
+2023-03-18T13:38:34.255Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 33%
+2023-03-18T13:38:34.333Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 34%
+2023-03-18T13:38:34.350Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 35%
+2023-03-18T13:38:34.425Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 36%
+2023-03-18T13:38:34.449Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 37%
+2023-03-18T13:38:34.487Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 38%
+2023-03-18T13:38:34.555Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 39%
+2023-03-18T13:38:34.592Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 40%
+2023-03-18T13:38:34.667Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 41%
+2023-03-18T13:38:34.723Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 42%
+2023-03-18T13:38:34.752Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 43%
+2023-03-18T13:38:34.815Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 44%
+2023-03-18T13:38:34.869Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 45%
+2023-03-18T13:38:34.897Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 46%
+2023-03-18T13:38:34.947Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 47%
+2023-03-18T13:38:35.014Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 48%
+2023-03-18T13:38:35.052Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 49%
+2023-03-18T13:38:35.107Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 50%
+2023-03-18T13:38:35.176Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 51%
+2023-03-18T13:38:35.215Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 52%
+2023-03-18T13:38:35.277Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 53%
+2023-03-18T13:38:35.309Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 54%
+2023-03-18T13:38:35.377Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 55%
+2023-03-18T13:38:35.397Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 56%
+2023-03-18T13:38:35.447Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 57%
+2023-03-18T13:38:35.493Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 58%
+2023-03-18T13:38:35.571Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 59%
+2023-03-18T13:38:35.587Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 60%
+2023-03-18T13:38:35.672Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 61%
+2023-03-18T13:38:35.690Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 62%
+2023-03-18T13:38:35.789Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 63%
+2023-03-18T13:38:35.790Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 64%
+2023-03-18T13:38:35.838Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 65%
+2023-03-18T13:38:35.899Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 66%
+2023-03-18T13:38:35.977Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 67%
+2023-03-18T13:38:35.995Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 68%
+2023-03-18T13:38:36.049Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 69%
+2023-03-18T13:38:36.088Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 70%
+2023-03-18T13:38:36.138Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 71%
+2023-03-18T13:38:36.187Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 72%
+2023-03-18T13:38:36.228Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 73%
+2023-03-18T13:38:36.276Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 74%
+2023-03-18T13:38:36.354Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 75%
+2023-03-18T13:38:36.374Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 76%
+2023-03-18T13:38:36.445Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 77%
+2023-03-18T13:38:36.469Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 78%
+2023-03-18T13:38:36.527Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 79%
+2023-03-18T13:38:36.586Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 80%
+2023-03-18T13:38:36.653Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 81%
+2023-03-18T13:38:36.725Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 82%
+2023-03-18T13:38:36.757Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 83%
+2023-03-18T13:38:36.804Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 84%
+2023-03-18T13:38:36.861Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 85%
+2023-03-18T13:38:36.918Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 86%
+2023-03-18T13:38:36.961Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 87%
+2023-03-18T13:38:37.014Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 88%
+2023-03-18T13:38:37.065Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 89%
+2023-03-18T13:38:37.120Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 90%
+2023-03-18T13:38:37.195Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 91%
+2023-03-18T13:38:37.220Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 92%
+2023-03-18T13:38:37.266Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 93%
+2023-03-18T13:38:37.335Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 94%
+2023-03-18T13:38:37.366Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 95%
+2023-03-18T13:38:37.415Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 96%
+2023-03-18T13:38:37.464Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 97%
+2023-03-18T13:38:37.535Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 98%
+2023-03-18T13:38:37.560Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 99%
+2023-03-18T13:38:37.600Z [Modules] Streaming discord_krisp@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 100%
+2023-03-18T13:38:37.601Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-03-18T13:38:37.601Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip
+2023-03-18T13:38:37.601Z [Modules] Installing discord_krisp@1 from /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip
+2023-03-18T13:38:37.790Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 2%
+2023-03-18T13:38:37.800Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 3%
+2023-03-18T13:38:37.816Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 5%
+2023-03-18T13:38:37.821Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 7%
+2023-03-18T13:38:37.831Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 8%
+2023-03-18T13:38:37.836Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 9%
+2023-03-18T13:38:37.843Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 10%
+2023-03-18T13:38:37.849Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 11%
+2023-03-18T13:38:37.853Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 12%
+2023-03-18T13:38:37.899Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 15%
+2023-03-18T13:38:37.900Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 20%
+2023-03-18T13:38:37.900Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 21%
+2023-03-18T13:38:37.908Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 22%
+2023-03-18T13:38:37.929Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 23%
+2023-03-18T13:38:37.936Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 25%
+2023-03-18T13:38:37.936Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 27%
+2023-03-18T13:38:37.940Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 28%
+2023-03-18T13:38:37.947Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 29%
+2023-03-18T13:38:37.950Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 30%
+2023-03-18T13:38:37.956Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 31%
+2023-03-18T13:38:37.962Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 32%
+2023-03-18T13:38:37.971Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 33%
+2023-03-18T13:38:37.976Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 34%
+2023-03-18T13:38:37.982Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 35%
+2023-03-18T13:38:37.989Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 37%
+2023-03-18T13:38:37.997Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 39%
+2023-03-18T13:38:38.005Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 40%
+2023-03-18T13:38:38.009Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 41%
+2023-03-18T13:38:38.022Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 42%
+2023-03-18T13:38:38.022Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 43%
+2023-03-18T13:38:38.026Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 44%
+2023-03-18T13:38:38.031Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 45%
+2023-03-18T13:38:38.033Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-03-18T13:38:38.035Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 46%
+2023-03-18T13:38:38.041Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 47%
+2023-03-18T13:38:38.046Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 48%
+2023-03-18T13:38:38.052Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 49%
+2023-03-18T13:38:38.057Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 50%
+2023-03-18T13:38:38.063Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 51%
+2023-03-18T13:38:38.066Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 52%
+2023-03-18T13:38:38.070Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 53%
+2023-03-18T13:38:38.076Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 54%
+2023-03-18T13:38:38.081Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 55%
+2023-03-18T13:38:38.086Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 56%
+2023-03-18T13:38:38.092Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 57%
+2023-03-18T13:38:38.102Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 59%
+2023-03-18T13:38:38.109Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 61%
+2023-03-18T13:38:38.152Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 62%
+2023-03-18T13:38:38.156Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 63%
+2023-03-18T13:38:38.156Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 65%
+2023-03-18T13:38:38.160Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 68%
+2023-03-18T13:38:38.161Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 69%
+2023-03-18T13:38:38.200Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 72%
+2023-03-18T13:38:38.201Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 76%
+2023-03-18T13:38:38.226Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 78%
+2023-03-18T13:38:38.228Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 80%
+2023-03-18T13:38:38.228Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 83%
+2023-03-18T13:38:38.233Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 84%
+2023-03-18T13:38:38.239Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 85%
+2023-03-18T13:38:38.245Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 86%
+2023-03-18T13:38:38.252Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 87%
+2023-03-18T13:38:38.257Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 88%
+2023-03-18T13:38:38.266Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 90%
+2023-03-18T13:38:38.271Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 91%
+2023-03-18T13:38:38.275Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 92%
+2023-03-18T13:38:38.281Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 93%
+2023-03-18T13:38:38.286Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 94%
+2023-03-18T13:38:38.297Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 96%
+2023-03-18T13:38:38.308Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 97%
+2023-03-18T13:38:38.309Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 98%
+2023-03-18T13:38:38.312Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 99%
+2023-03-18T13:38:38.322Z [Modules] Streaming discord_game_utils@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 100%
+2023-03-18T13:38:38.323Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-03-18T13:38:38.323Z [Modules] Streaming discord_rpc@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_rpc-1.zip
+2023-03-18T13:38:38.323Z [Modules] Installing discord_game_utils@1 from /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip
+2023-03-18T13:38:38.405Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-03-18T13:38:38.537Z [Modules] Streaming discord_rpc@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_rpc-1.zip: 38%
+2023-03-18T13:38:38.540Z [Modules] Streaming discord_rpc@1 to /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_rpc-1.zip: 100%
+2023-03-18T13:38:38.540Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-03-18T13:38:38.541Z [Modules] Installing discord_rpc@1 from /home/YesMaster/.config/discord/0.0.25/modules/pending/discord_rpc-1.zip
+2023-03-18T13:38:38.560Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-03-18T14:32:09.369Z [Modules] Modules initializing
+2023-03-18T14:32:09.369Z [Modules] Distribution: remote
+2023-03-18T14:32:09.369Z [Modules] Host updates: enabled
+2023-03-18T14:32:09.369Z [Modules] Module updates: enabled
+2023-03-18T14:32:09.369Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-18T14:32:09.369Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-18T14:32:09.369Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-18T14:32:09.510Z [Modules] No updates to install
+2023-03-18T14:32:09.510Z [Modules] Checking for host updates.
+2023-03-18T14:32:09.735Z [Modules] Host is up to date.
+2023-03-18T14:32:09.735Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T14:32:09.768Z [Modules] No module updates available.
+2023-03-18T14:32:11.759Z [Modules] Checking for host updates.
+2023-03-18T14:32:11.931Z [Modules] Host is up to date.
+2023-03-18T14:32:11.931Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T14:32:11.933Z [Modules] No module updates available.
+2023-03-18T15:06:08.914Z [Modules] Modules initializing
+2023-03-18T15:06:08.914Z [Modules] Distribution: remote
+2023-03-18T15:06:08.914Z [Modules] Host updates: enabled
+2023-03-18T15:06:08.914Z [Modules] Module updates: enabled
+2023-03-18T15:06:08.914Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-18T15:06:08.914Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-18T15:06:08.914Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-18T15:06:09.058Z [Modules] No updates to install
+2023-03-18T15:06:09.058Z [Modules] Checking for host updates.
+2023-03-18T15:06:09.270Z [Modules] Host is up to date.
+2023-03-18T15:06:09.271Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T15:06:09.294Z [Modules] No module updates available.
+2023-03-18T15:06:10.912Z [Modules] Checking for host updates.
+2023-03-18T15:06:11.067Z [Modules] Host is up to date.
+2023-03-18T15:06:11.067Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T15:06:11.069Z [Modules] No module updates available.
+2023-03-18T17:50:13.020Z [Modules] Modules initializing
+2023-03-18T17:50:13.021Z [Modules] Distribution: remote
+2023-03-18T17:50:13.021Z [Modules] Host updates: enabled
+2023-03-18T17:50:13.021Z [Modules] Module updates: enabled
+2023-03-18T17:50:13.021Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-18T17:50:13.021Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-18T17:50:13.021Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-18T17:50:13.157Z [Modules] No updates to install
+2023-03-18T17:50:13.157Z [Modules] Checking for host updates.
+2023-03-18T17:50:13.374Z [Modules] Host is up to date.
+2023-03-18T17:50:13.374Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T17:50:13.402Z [Modules] No module updates available.
+2023-03-18T17:50:17.681Z [Modules] Checking for host updates.
+2023-03-18T17:50:17.827Z [Modules] Host is up to date.
+2023-03-18T17:50:17.827Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T17:50:17.829Z [Modules] No module updates available.
+2023-03-18T19:06:13.141Z [Modules] Modules initializing
+2023-03-18T19:06:13.141Z [Modules] Distribution: remote
+2023-03-18T19:06:13.141Z [Modules] Host updates: enabled
+2023-03-18T19:06:13.141Z [Modules] Module updates: enabled
+2023-03-18T19:06:13.142Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-18T19:06:13.142Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-18T19:06:13.142Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-18T19:06:13.279Z [Modules] No updates to install
+2023-03-18T19:06:13.280Z [Modules] Checking for host updates.
+2023-03-18T19:06:13.494Z [Modules] Host is up to date.
+2023-03-18T19:06:13.495Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T19:06:13.528Z [Modules] No module updates available.
+2023-03-18T19:06:15.246Z [Modules] Checking for host updates.
+2023-03-18T19:06:15.406Z [Modules] Host is up to date.
+2023-03-18T19:06:15.406Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T19:06:15.408Z [Modules] No module updates available.
+2023-03-18T20:06:15.247Z [Modules] Checking for host updates.
+2023-03-18T20:06:15.423Z [Modules] Host is up to date.
+2023-03-18T20:06:15.424Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T20:06:15.449Z [Modules] No module updates available.
+2023-03-18T20:07:56.946Z [Modules] Modules initializing
+2023-03-18T20:07:56.947Z [Modules] Distribution: remote
+2023-03-18T20:07:56.947Z [Modules] Host updates: enabled
+2023-03-18T20:07:56.947Z [Modules] Module updates: enabled
+2023-03-18T20:07:56.947Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-18T20:07:56.947Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-18T20:07:56.947Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-18T20:07:57.088Z [Modules] No updates to install
+2023-03-18T20:07:57.089Z [Modules] Checking for host updates.
+2023-03-18T20:07:57.407Z [Modules] Host is up to date.
+2023-03-18T20:07:57.407Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T20:07:57.414Z [Modules] No module updates available.
+2023-03-18T20:07:59.043Z [Modules] Checking for host updates.
+2023-03-18T20:07:59.193Z [Modules] Host is up to date.
+2023-03-18T20:07:59.193Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T20:07:59.194Z [Modules] No module updates available.
+2023-03-18T21:07:59.045Z [Modules] Checking for host updates.
+2023-03-18T21:07:59.216Z [Modules] Host is up to date.
+2023-03-18T21:07:59.217Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T21:07:59.245Z [Modules] No module updates available.
+2023-03-18T22:01:18.600Z [Modules] Checking for host updates.
+2023-03-18T22:01:18.789Z [Modules] Host is up to date.
+2023-03-18T22:01:18.789Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T22:01:18.842Z [Modules] No module updates available.
+2023-03-18T22:20:14.780Z [Modules] Modules initializing
+2023-03-18T22:20:14.780Z [Modules] Distribution: remote
+2023-03-18T22:20:14.780Z [Modules] Host updates: enabled
+2023-03-18T22:20:14.781Z [Modules] Module updates: enabled
+2023-03-18T22:20:14.781Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-18T22:20:14.781Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-18T22:20:14.781Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-18T22:20:14.900Z [Modules] No updates to install
+2023-03-18T22:20:14.900Z [Modules] Checking for host updates.
+2023-03-18T22:20:15.114Z [Modules] Host is up to date.
+2023-03-18T22:20:15.114Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T22:20:15.137Z [Modules] No module updates available.
+2023-03-18T22:20:16.769Z [Modules] Checking for host updates.
+2023-03-18T22:20:16.908Z [Modules] Host is up to date.
+2023-03-18T22:20:16.908Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T22:20:16.910Z [Modules] No module updates available.
+2023-03-19T11:17:18.993Z [Modules] Modules initializing
+2023-03-19T11:17:18.993Z [Modules] Distribution: remote
+2023-03-19T11:17:18.993Z [Modules] Host updates: enabled
+2023-03-19T11:17:18.993Z [Modules] Module updates: enabled
+2023-03-19T11:17:18.994Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-19T11:17:18.994Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-19T11:17:18.994Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-19T11:17:19.137Z [Modules] No updates to install
+2023-03-19T11:17:19.137Z [Modules] Checking for host updates.
+2023-03-19T11:17:19.354Z [Modules] Host is up to date.
+2023-03-19T11:17:19.354Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-19T11:17:19.390Z [Modules] No module updates available.
+2023-03-19T11:17:20.939Z [Modules] Checking for host updates.
+2023-03-19T11:17:21.093Z [Modules] Host is up to date.
+2023-03-19T11:17:21.093Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-19T11:17:21.094Z [Modules] No module updates available.
+2023-03-19T12:17:20.942Z [Modules] Checking for host updates.
+2023-03-19T12:17:21.154Z [Modules] Host is up to date.
+2023-03-19T12:17:21.154Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-19T12:17:21.181Z [Modules] No module updates available.
+2023-03-19T13:17:20.942Z [Modules] Checking for host updates.
+2023-03-19T13:17:21.212Z [Modules] Host is up to date.
+2023-03-19T13:17:21.212Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-19T13:17:21.240Z [Modules] No module updates available.
+2023-03-19T14:17:20.941Z [Modules] Checking for host updates.
+2023-03-19T14:17:21.104Z [Modules] Host is up to date.
+2023-03-19T14:17:21.104Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-19T14:17:21.131Z [Modules] No module updates available.
+2023-03-19T15:29:24.137Z [Modules] Modules initializing
+2023-03-19T15:29:24.138Z [Modules] Distribution: remote
+2023-03-19T15:29:24.138Z [Modules] Host updates: enabled
+2023-03-19T15:29:24.138Z [Modules] Module updates: enabled
+2023-03-19T15:29:24.138Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-19T15:29:24.138Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-19T15:29:24.138Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-19T15:29:24.276Z [Modules] No updates to install
+2023-03-19T15:29:24.277Z [Modules] Checking for host updates.
+2023-03-19T15:29:24.482Z [Modules] Host is up to date.
+2023-03-19T15:29:24.482Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-19T15:29:24.519Z [Modules] No module updates available.
+2023-03-19T15:29:26.156Z [Modules] Checking for host updates.
+2023-03-19T15:29:26.306Z [Modules] Host is up to date.
+2023-03-19T15:29:26.306Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-19T15:29:26.308Z [Modules] No module updates available.
+2023-03-19T18:29:19.593Z [Modules] Modules initializing
+2023-03-19T18:29:19.593Z [Modules] Distribution: remote
+2023-03-19T18:29:19.593Z [Modules] Host updates: enabled
+2023-03-19T18:29:19.593Z [Modules] Module updates: enabled
+2023-03-19T18:29:19.593Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-19T18:29:19.593Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-19T18:29:19.593Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-19T18:29:19.733Z [Modules] No updates to install
+2023-03-19T18:29:19.734Z [Modules] Checking for host updates.
+2023-03-19T18:29:19.945Z [Modules] Host is up to date.
+2023-03-19T18:29:19.946Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-19T18:29:19.982Z [Modules] No module updates available.
+2023-03-19T18:29:21.683Z [Modules] Checking for host updates.
+2023-03-19T18:29:21.842Z [Modules] Host is up to date.
+2023-03-19T18:29:21.842Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-19T18:29:21.844Z [Modules] No module updates available.
+2023-03-19T20:52:07.237Z [Modules] Modules initializing
+2023-03-19T20:52:07.237Z [Modules] Distribution: remote
+2023-03-19T20:52:07.237Z [Modules] Host updates: enabled
+2023-03-19T20:52:07.237Z [Modules] Module updates: enabled
+2023-03-19T20:52:07.237Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-19T20:52:07.237Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-19T20:52:07.237Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-19T20:52:07.376Z [Modules] No updates to install
+2023-03-19T20:52:07.376Z [Modules] Checking for host updates.
+2023-03-19T20:52:07.589Z [Modules] Host is up to date.
+2023-03-19T20:52:07.590Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-19T20:52:07.617Z [Modules] No module updates available.
+2023-03-19T20:52:09.262Z [Modules] Checking for host updates.
+2023-03-19T20:52:09.456Z [Modules] Host is up to date.
+2023-03-19T20:52:09.456Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-19T20:52:09.458Z [Modules] No module updates available.
+2023-03-20T12:36:30.392Z [Modules] Modules initializing
+2023-03-20T12:36:30.392Z [Modules] Distribution: remote
+2023-03-20T12:36:30.392Z [Modules] Host updates: enabled
+2023-03-20T12:36:30.392Z [Modules] Module updates: enabled
+2023-03-20T12:36:30.392Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-20T12:36:30.392Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-20T12:36:30.392Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-20T12:36:30.532Z [Modules] No updates to install
+2023-03-20T12:36:30.533Z [Modules] Checking for host updates.
+2023-03-20T12:36:30.786Z [Modules] Host is up to date.
+2023-03-20T12:36:30.787Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T12:36:30.813Z [Modules] No module updates available.
+2023-03-20T12:36:32.366Z [Modules] Checking for host updates.
+2023-03-20T12:36:32.538Z [Modules] Host is up to date.
+2023-03-20T12:36:32.538Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T12:36:32.540Z [Modules] No module updates available.
+2023-03-20T12:58:54.591Z [Modules] Modules initializing
+2023-03-20T12:58:54.591Z [Modules] Distribution: remote
+2023-03-20T12:58:54.591Z [Modules] Host updates: enabled
+2023-03-20T12:58:54.591Z [Modules] Module updates: enabled
+2023-03-20T12:58:54.591Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-20T12:58:54.591Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-20T12:58:54.591Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-20T12:58:54.691Z [Modules] No updates to install
+2023-03-20T12:58:54.691Z [Modules] Checking for host updates.
+2023-03-20T12:58:54.907Z [Modules] Host is up to date.
+2023-03-20T12:58:54.907Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T12:58:54.934Z [Modules] No module updates available.
+2023-03-20T12:58:56.491Z [Modules] Checking for host updates.
+2023-03-20T12:58:56.634Z [Modules] Host is up to date.
+2023-03-20T12:58:56.634Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T12:58:56.636Z [Modules] No module updates available.
+2023-03-20T13:58:56.494Z [Modules] Checking for host updates.
+2023-03-20T13:58:56.667Z [Modules] Host is up to date.
+2023-03-20T13:58:56.667Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T13:58:56.694Z [Modules] No module updates available.
+2023-03-20T14:58:56.493Z [Modules] Checking for host updates.
+2023-03-20T14:58:56.665Z [Modules] Host is up to date.
+2023-03-20T14:58:56.665Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T14:58:56.692Z [Modules] No module updates available.
+2023-03-20T16:55:11.683Z [Modules] Modules initializing
+2023-03-20T16:55:11.683Z [Modules] Distribution: remote
+2023-03-20T16:55:11.683Z [Modules] Host updates: enabled
+2023-03-20T16:55:11.683Z [Modules] Module updates: enabled
+2023-03-20T16:55:11.683Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-20T16:55:11.683Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-20T16:55:11.683Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-20T16:55:11.822Z [Modules] No updates to install
+2023-03-20T16:55:11.822Z [Modules] Checking for host updates.
+2023-03-20T16:55:12.083Z [Modules] Host is up to date.
+2023-03-20T16:55:12.083Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T16:55:12.130Z [Modules] No module updates available.
+2023-03-20T16:55:13.874Z [Modules] Checking for host updates.
+2023-03-20T16:55:14.050Z [Modules] Host is up to date.
+2023-03-20T16:55:14.050Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T16:55:14.052Z [Modules] No module updates available.
+2023-03-20T16:55:57.358Z [Modules] Modules initializing
+2023-03-20T16:55:57.359Z [Modules] Distribution: remote
+2023-03-20T16:55:57.359Z [Modules] Host updates: enabled
+2023-03-20T16:55:57.359Z [Modules] Module updates: enabled
+2023-03-20T16:55:57.359Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-20T16:55:57.359Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-20T16:55:57.359Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-20T16:55:57.456Z [Modules] No updates to install
+2023-03-20T16:55:57.457Z [Modules] Checking for host updates.
+2023-03-20T16:55:57.678Z [Modules] Host is up to date.
+2023-03-20T16:55:57.678Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T16:55:57.681Z [Modules] No module updates available.
+2023-03-20T16:55:59.237Z [Modules] Checking for host updates.
+2023-03-20T16:55:59.378Z [Modules] Host is up to date.
+2023-03-20T16:55:59.378Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T16:55:59.381Z [Modules] No module updates available.
+2023-03-20T16:56:56.642Z [Modules] Modules initializing
+2023-03-20T16:56:56.642Z [Modules] Distribution: remote
+2023-03-20T16:56:56.642Z [Modules] Host updates: enabled
+2023-03-20T16:56:56.642Z [Modules] Module updates: enabled
+2023-03-20T16:56:56.642Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-20T16:56:56.642Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-20T16:56:56.642Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-20T16:56:56.740Z [Modules] No updates to install
+2023-03-20T16:56:56.741Z [Modules] Checking for host updates.
+2023-03-20T16:56:56.948Z [Modules] Host is up to date.
+2023-03-20T16:56:56.948Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T16:56:56.951Z [Modules] No module updates available.
+2023-03-20T16:56:58.479Z [Modules] Checking for host updates.
+2023-03-20T16:56:58.637Z [Modules] Host is up to date.
+2023-03-20T16:56:58.637Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T16:56:58.639Z [Modules] No module updates available.
+2023-03-20T18:31:36.316Z [Modules] Modules initializing
+2023-03-20T18:31:36.316Z [Modules] Distribution: remote
+2023-03-20T18:31:36.316Z [Modules] Host updates: enabled
+2023-03-20T18:31:36.316Z [Modules] Module updates: enabled
+2023-03-20T18:31:36.317Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-20T18:31:36.317Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-20T18:31:36.317Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-20T18:31:36.454Z [Modules] No updates to install
+2023-03-20T18:31:36.455Z [Modules] Checking for host updates.
+2023-03-20T18:31:36.727Z [Modules] Host is up to date.
+2023-03-20T18:31:36.728Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T18:31:36.755Z [Modules] No module updates available.
+2023-03-20T18:31:38.396Z [Modules] Checking for host updates.
+2023-03-20T18:31:38.556Z [Modules] Host is up to date.
+2023-03-20T18:31:38.556Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T18:31:38.558Z [Modules] No module updates available.
+2023-03-20T18:32:50.336Z [Modules] Modules initializing
+2023-03-20T18:32:50.336Z [Modules] Distribution: remote
+2023-03-20T18:32:50.336Z [Modules] Host updates: enabled
+2023-03-20T18:32:50.336Z [Modules] Module updates: enabled
+2023-03-20T18:32:50.337Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-20T18:32:50.337Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-20T18:32:50.337Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-20T18:32:50.435Z [Modules] No updates to install
+2023-03-20T18:32:50.436Z [Modules] Checking for host updates.
+2023-03-20T18:32:50.663Z [Modules] Host is up to date.
+2023-03-20T18:32:50.663Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T18:32:50.666Z [Modules] No module updates available.
+2023-03-20T18:32:52.260Z [Modules] Checking for host updates.
+2023-03-20T18:32:52.411Z [Modules] Host is up to date.
+2023-03-20T18:32:52.411Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T18:32:52.413Z [Modules] No module updates available.
+2023-03-20T19:32:52.262Z [Modules] Checking for host updates.
+2023-03-20T19:32:52.433Z [Modules] Host is up to date.
+2023-03-20T19:32:52.433Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T19:32:52.464Z [Modules] No module updates available.
+2023-03-20T20:10:56.964Z [Modules] Modules initializing
+2023-03-20T20:10:56.964Z [Modules] Distribution: remote
+2023-03-20T20:10:56.964Z [Modules] Host updates: enabled
+2023-03-20T20:10:56.964Z [Modules] Module updates: enabled
+2023-03-20T20:10:56.964Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-20T20:10:56.964Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-20T20:10:56.964Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-20T20:10:57.105Z [Modules] No updates to install
+2023-03-20T20:10:57.106Z [Modules] Checking for host updates.
+2023-03-20T20:10:57.360Z [Modules] Host is up to date.
+2023-03-20T20:10:57.360Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T20:10:57.393Z [Modules] No module updates available.
+2023-03-20T20:10:59.118Z [Modules] Checking for host updates.
+2023-03-20T20:10:59.308Z [Modules] Host is up to date.
+2023-03-20T20:10:59.308Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T20:10:59.310Z [Modules] No module updates available.
+2023-03-20T20:11:39.711Z [Modules] Modules initializing
+2023-03-20T20:11:39.711Z [Modules] Distribution: remote
+2023-03-20T20:11:39.711Z [Modules] Host updates: enabled
+2023-03-20T20:11:39.711Z [Modules] Module updates: enabled
+2023-03-20T20:11:39.711Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-20T20:11:39.711Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-20T20:11:39.711Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-20T20:11:39.811Z [Modules] No updates to install
+2023-03-20T20:11:39.811Z [Modules] Checking for host updates.
+2023-03-20T20:11:40.025Z [Modules] Host is up to date.
+2023-03-20T20:11:40.025Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T20:11:40.027Z [Modules] No module updates available.
+2023-03-20T20:11:41.550Z [Modules] Checking for host updates.
+2023-03-20T20:11:41.708Z [Modules] Host is up to date.
+2023-03-20T20:11:41.708Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T20:11:41.709Z [Modules] No module updates available.
+2023-03-20T20:35:58.398Z [Modules] Modules initializing
+2023-03-20T20:35:58.398Z [Modules] Distribution: remote
+2023-03-20T20:35:58.398Z [Modules] Host updates: enabled
+2023-03-20T20:35:58.398Z [Modules] Module updates: enabled
+2023-03-20T20:35:58.398Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-20T20:35:58.398Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-20T20:35:58.398Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-20T20:35:58.534Z [Modules] No updates to install
+2023-03-20T20:35:58.534Z [Modules] Checking for host updates.
+2023-03-20T20:35:58.736Z [Modules] Host is up to date.
+2023-03-20T20:35:58.736Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T20:35:58.765Z [Modules] No module updates available.
+2023-03-20T20:36:00.360Z [Modules] Checking for host updates.
+2023-03-20T20:36:00.511Z [Modules] Host is up to date.
+2023-03-20T20:36:00.512Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T20:36:00.514Z [Modules] No module updates available.
+2023-03-20T21:36:00.361Z [Modules] Checking for host updates.
+2023-03-20T21:36:00.545Z [Modules] Host is up to date.
+2023-03-20T21:36:00.545Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T21:36:00.569Z [Modules] No module updates available.
+2023-03-20T22:36:00.362Z [Modules] Checking for host updates.
+2023-03-20T22:36:00.499Z [Modules] Host is up to date.
+2023-03-20T22:36:00.499Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-20T22:36:00.522Z [Modules] No module updates available.
+2023-03-21T15:01:33.830Z [Modules] Modules initializing
+2023-03-21T15:01:33.830Z [Modules] Distribution: remote
+2023-03-21T15:01:33.830Z [Modules] Host updates: enabled
+2023-03-21T15:01:33.830Z [Modules] Module updates: enabled
+2023-03-21T15:01:33.831Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-21T15:01:33.831Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-21T15:01:33.831Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-21T15:01:33.974Z [Modules] No updates to install
+2023-03-21T15:01:33.974Z [Modules] Checking for host updates.
+2023-03-21T15:01:34.233Z [Modules] Host is up to date.
+2023-03-21T15:01:34.234Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-21T15:01:34.275Z [Modules] No module updates available.
+2023-03-21T15:01:36.012Z [Modules] Checking for host updates.
+2023-03-21T15:01:36.152Z [Modules] Host is up to date.
+2023-03-21T15:01:36.152Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-21T15:01:36.154Z [Modules] No module updates available.
+2023-03-21T16:01:36.015Z [Modules] Checking for host updates.
+2023-03-21T16:01:36.209Z [Modules] Host is up to date.
+2023-03-21T16:01:36.210Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-21T16:01:36.235Z [Modules] No module updates available.
+2023-03-21T17:01:36.015Z [Modules] Checking for host updates.
+2023-03-21T17:01:36.228Z [Modules] Host is up to date.
+2023-03-21T17:01:36.228Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-21T17:01:36.290Z [Modules] No module updates available.
+2023-03-21T17:15:06.522Z [Modules] Modules initializing
+2023-03-21T17:15:06.522Z [Modules] Distribution: remote
+2023-03-21T17:15:06.522Z [Modules] Host updates: enabled
+2023-03-21T17:15:06.522Z [Modules] Module updates: enabled
+2023-03-21T17:15:06.522Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-21T17:15:06.523Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-21T17:15:06.523Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-21T17:15:06.623Z [Modules] No updates to install
+2023-03-21T17:15:06.623Z [Modules] Checking for host updates.
+2023-03-21T17:15:06.851Z [Modules] Host is up to date.
+2023-03-21T17:15:06.851Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-21T17:15:06.882Z [Modules] No module updates available.
+2023-03-21T17:15:08.532Z [Modules] Checking for host updates.
+2023-03-21T17:15:08.697Z [Modules] Host is up to date.
+2023-03-21T17:15:08.698Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-21T17:15:08.700Z [Modules] No module updates available.
+2023-03-21T18:15:08.535Z [Modules] Checking for host updates.
+2023-03-21T18:15:08.777Z [Modules] Host is up to date.
+2023-03-21T18:15:08.777Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-21T18:15:08.874Z [Modules] No module updates available.
+2023-03-21T19:02:20.189Z [Modules] Modules initializing
+2023-03-21T19:02:20.189Z [Modules] Distribution: remote
+2023-03-21T19:02:20.189Z [Modules] Host updates: enabled
+2023-03-21T19:02:20.190Z [Modules] Module updates: enabled
+2023-03-21T19:02:20.190Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-21T19:02:20.190Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-21T19:02:20.190Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-21T19:02:20.285Z [Modules] No updates to install
+2023-03-21T19:02:20.286Z [Modules] Checking for host updates.
+2023-03-21T19:02:20.484Z [Modules] Host is up to date.
+2023-03-21T19:02:20.484Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-21T19:02:20.512Z [Modules] No module updates available.
+2023-03-21T19:02:23.213Z [Modules] Checking for host updates.
+2023-03-21T19:02:23.462Z [Modules] Host is up to date.
+2023-03-21T19:02:23.463Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-21T19:02:23.464Z [Modules] No module updates available.
+2023-03-21T19:15:52.336Z [Modules] Modules initializing
+2023-03-21T19:15:52.336Z [Modules] Distribution: remote
+2023-03-21T19:15:52.336Z [Modules] Host updates: enabled
+2023-03-21T19:15:52.336Z [Modules] Module updates: enabled
+2023-03-21T19:15:52.336Z [Modules] Module install path: /home/YesMaster/.config/discord/0.0.25/modules
+2023-03-21T19:15:52.336Z [Modules] Module installed file path: /home/YesMaster/.config/discord/0.0.25/modules/installed.json
+2023-03-21T19:15:52.336Z [Modules] Module download path: /home/YesMaster/.config/discord/0.0.25/modules/pending
+2023-03-21T19:15:52.477Z [Modules] No updates to install
+2023-03-21T19:15:52.477Z [Modules] Checking for host updates.
+2023-03-21T19:15:52.706Z [Modules] Host is up to date.
+2023-03-21T19:15:52.707Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-21T19:15:52.733Z [Modules] No module updates available.
+2023-03-21T19:15:54.759Z [Modules] Checking for host updates.
+2023-03-21T19:15:54.922Z [Modules] Host is up to date.
+2023-03-21T19:15:54.922Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-21T19:15:54.925Z [Modules] No module updates available.
